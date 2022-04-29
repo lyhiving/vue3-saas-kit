@@ -1,6 +1,6 @@
 ## vue3-saas-kit
 
-Vue3 SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front pages, Vite
+Vue3 SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Auth/Admin/App pages, Vite
 
 ![Vue3 Codebase](https://yahooder.sirv.com/saasfrontends/oss/vue.png)
 
